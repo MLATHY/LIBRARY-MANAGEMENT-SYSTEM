@@ -1,0 +1,19 @@
+PrintedBook,Data Structures,Robert Martin,Computer Science,1112131415,true,null,320
+PrintedBook,World History,Emma Brown,History,1213141516,true,null,450
+PrintedBook,Modern Art,Alice Green,Art,1314151617,true,null,280
+PrintedBook,The Great Gatsby,F. Scott Fitzgerald,Fiction,1718192021,true,null,180
+PrintedBook,Calculus 101,Isaac Newton,Mathematics,1819202122,true,null,600
+PrintedBook,Cooking with Love,Gordon Ramsay,Cooking,1920212223,false,2025-04-29,350
+PrintedBook,The Art of War,Sun Tzu,Philosophy,2021222324,true,null,200
+PrintedBook,Introduction to Robotics,Cynthia Lee,Engineering,2122232425,true,null,520
+Ebook,Travel the World,Samantha Jones,Travel,2223242526,false,null,PDF
+Ebook,Mastering Java,James Gosling,Programming,2324252627,false,null,EPUB
+Ebook,Understanding Economics,Paul Krugman,Economics,2425262728,false,null,MOBI
+Ebook,The Universe Explained,Neil deGrasse Tyson,Astronomy,2526272829,false,null,PDF
+Ebook,Self Help Guide,Tony Robbins,Self-help,2627282930,false,null,EPUB
+Ebook,Python Basics,Jane Smith,Programming,0987654321,false,null,PDF
+Ebook,Java Programming,John Doe,Programming,1234567890,false,null,PDF
+Ebook,Toan Cao Cap,Miss Huong,Math,12345678910,false,null,PDF
+PrintedBook,Data Structure,Robert Martin,Computer Science,1112131415,true,null,320
+Ebook,Data Structure,Robert Martin,Computer Science,1112131415,false,null,PDF
+Ebook,Travel the World,Samantha Jones,Travel,2223242526,false,null,abc

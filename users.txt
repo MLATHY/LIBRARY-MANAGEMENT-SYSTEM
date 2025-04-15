@@ -1,0 +1,10 @@
+admin,admin123,Admin
+librarian,lib123,Librarian
+reader,reader123,Reader
+maithy,maithy123,Reader
+tmtuan,@bc123,Admin
+lqphu,phu#123,Librarian
+uyenHoang,uyen012,Reader
+hiuvi,vitran>20,Reader
+tramAnh,anhDao!205,Reader
+user1,123456,Reader
